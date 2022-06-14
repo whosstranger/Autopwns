@@ -2,9 +2,6 @@
   <img src="https://github.com/whosstranger/Autopwns/blob/master/Images/writeup.gif" alt="Whos Stranger" />
 </h1>
 
-## Hey! 👋
-I'm Stranger, Engineer focused on cybersecurity in a self-taught way, eager to keep learning..
-
 ## About it
 - 👨‍💻 List of scripts that automate HTB machines
 
