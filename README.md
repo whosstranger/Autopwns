@@ -1,9 +1,21 @@
 <h1 align="center">
-  <img src="https://github.com/whosstranger/Autopwns/blob/master/Images/writeup.gif" alt="WhosStranger" />
+  <img src="https://github.com/whosstranger/Autopwns/blob/master/Images/Terminal.gif" alt="WhosStranger" />
 </h1>
 
 ## About it
 - 👨‍💻 List of scripts that automate HTB machines
+
+Install or validate pwntools library
+
+```sh
+pip install pwntools
+```
+
+Execute the script with python3
+
+```sh
+python3 script.py
+```
 
 ## Contact
 - [WhosStranger](https://whosstranger.github.io/) my WebSite
